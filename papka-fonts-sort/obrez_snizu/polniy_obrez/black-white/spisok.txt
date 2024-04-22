@@ -75,7 +75,6 @@
 -adobe-helvetica-bold-r-normal--14-100-100-100-p-82-iso10646-1.bmp
 -adobe-helvetica-bold-r-normal--18-180-75-75-p-103-iso10646-1.bmp
 -adobe-helvetica-bold-r-normal--24-240-75-75-p-138-iso10646-1.bmp
--adobe-helvetica-bold-r-normal--34-240-100-100-p-182-iso10646-1.bmp
 -adobe-helvetica-bold-r-normal--8-80-75-75-p-50-iso10646-1.bmp
 -adobe-helvetica-medium-i-normal--0-0-0-0-p-0-iso8859-15.bmp
 -adobe-helvetica-medium-o-narrow--0-0-0-0-p-0-iso8859-15.bmp
@@ -96,7 +95,6 @@
 -adobe-helvetica-medium-r-normal--14-100-100-100-p-76-iso10646-1.bmp
 -adobe-helvetica-medium-r-normal--18-180-75-75-p-98-iso10646-1.bmp
 -adobe-helvetica-medium-r-normal--24-240-75-75-p-130-iso10646-1.bmp
--adobe-helvetica-medium-r-normal--34-240-100-100-p-176-iso10646-1.bmp
 -adobe-helvetica-medium-r-normal--8-80-75-75-p-46-iso10646-1.bmp
 -adobe-itc avant garde gothic-book-o-normal--0-0-0-0-p-0-iso8859-15.bmp
 -adobe-itc avant garde gothic-book-o-normal--0-0-0-0-p-0-iso8859-1.bmp
@@ -185,8 +183,6 @@
 -adobe-new century schoolbook-bold-r-normal--24-240-75-75-p-149-iso8859-1.bmp
 -adobe-new century schoolbook-bold-r-normal--25-180-100-100-p-149-iso10646-1.bmp
 -adobe-new century schoolbook-bold-r-normal--25-180-100-100-p-149-iso8859-1.bmp
--adobe-new century schoolbook-bold-r-normal--34-240-100-100-p-193-iso10646-1.bmp
--adobe-new century schoolbook-bold-r-normal--34-240-100-100-p-193-iso8859-1.bmp
 -adobe-new century schoolbook-bold-r-normal--8-80-75-75-p-56-iso10646-1.bmp
 -adobe-new century schoolbook-bold-r-normal--8-80-75-75-p-56-iso8859-1.bmp
 -adobe-new century schoolbook-medium-i-normal--0-0-0-0-p-0-iso8859-15.bmp
@@ -245,7 +241,6 @@
 -adobe-new century schoolbook-medium-r-normal--24-240-75-75-p-137-iso8859-1.bmp
 -adobe-new century schoolbook-medium-r-normal--25-180-100-100-p-136-iso10646-1.bmp
 -adobe-new century schoolbook-medium-r-normal--25-180-100-100-p-136-iso8859-1.bmp
--adobe-new century schoolbook-medium-r-normal--34-240-100-100-p-181-iso10646-1.bmp
 -adobe-new century schoolbook-medium-r-normal--8-80-75-75-p-50-iso10646-1.bmp
 -adobe-new century schoolbook-medium-r-normal--8-80-75-75-p-50-iso8859-1.bmp
 -adobe-palatino-bold-i-normal--0-0-0-0-p-0-iso8859-15.bmp
@@ -261,7 +256,6 @@
 -adobe-symbol-medium-r-normal--18-180-75-75-p-107-adobe-fontspecific.bmp
 -adobe-symbol-medium-r-normal--20-140-100-100-p-107-adobe-fontspecific.bmp
 -adobe-symbol-medium-r-normal--24-240-75-75-p-142-adobe-fontspecific.bmp
--adobe-symbol-medium-r-normal--34-240-100-100-p-191-adobe-fontspecific.bmp
 -adobe-symbol-medium-r-normal--8-80-75-75-p-51-adobe-fontspecific.bmp
 -adobe-times-bold-i-normal--0-0-0-0-p-0-iso8859-15.bmp
 -adobe-times-bold-i-normal--0-0-100-100-p-0-iso10646-1.bmp
@@ -318,7 +312,6 @@
 -b&h-lucida-bold-r-normal-sans-20-140-100-100-p-127-iso10646-1.bmp
 -b&h-lucida-bold-r-normal-sans-24-240-75-75-p-152-iso10646-1.bmp
 -b&h-lucida-bold-r-normal-sans-25-180-100-100-p-158-iso10646-1.bmp
--b&h-lucida-bold-r-normal-sans-34-240-100-100-p-216-iso10646-1.bmp
 -b&h-lucida-bold-r-normal-sans-8-80-75-75-p-50-iso10646-1.bmp
 -b&h-lucidabright-demibold-i-normal--0-0-100-100-p-0-iso10646-1.bmp
 -b&h-lucidabright-demibold-i-normal--0-0-75-75-p-0-iso10646-1.bmp
@@ -373,7 +366,6 @@
 -b&h-lucida-medium-r-normal-sans-19-190-75-75-p-108-iso10646-1.bmp
 -b&h-lucida-medium-r-normal-sans-24-240-75-75-p-136-iso10646-1.bmp
 -b&h-lucida-medium-r-normal-sans-26-190-100-100-p-147-iso10646-1.bmp
--b&h-lucida-medium-r-normal-sans-34-240-100-100-p-191-iso10646-1.bmp
 -b&h-lucidatypewriter-bold-r-normal-sans-0-0-100-100-m-0-iso10646-1.bmp
 -b&h-lucidatypewriter-bold-r-normal-sans-11-80-100-100-m-70-iso10646-1.bmp
 -b&h-lucidatypewriter-bold-r-normal-sans-14-100-100-100-m-80-iso10646-1.bmp
@@ -860,6 +852,7 @@
 -nectec-fixed-medium-i-normal--18-180-72-72-c-90-iso8859-1.bmp
 -nectec-fixed-medium-i-normal--18-180-72-72-c-90-tis620-0.bmp
 -nectec-fixed-medium-r-normal--0-0-72-72-c-0-tis620-0.bmp
+ploshdi.txt
 -poonlap-emacs-bold-i-normal--0-0-100-100-c-0-tis620-0.bmp
 -poonlap-emacs-bold-i-normal--20-140-100-100-c-11-tis620-0.bmp
 -poonlap-emacs-bold-r-normal--0-0-100-100-c-0-tis620-0.bmp
@@ -1420,3 +1413,4 @@ spisok.txt
 -yenbut-fixed-medium-r-normal--0-0-75-75-p-0-tis620-0.bmp
 -yenbut-fixed-medium-r-normal--13-120-75-75-c-80-tis620-0.bmp
 -yenbut-fixed-medium-r-normal--13-130-75-75-p-65-tis620-0.bmp
+список индексов площадей больше 201.txt
